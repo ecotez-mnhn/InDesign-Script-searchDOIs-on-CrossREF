@@ -1,15 +1,11 @@
 # InDesign-Script-searchDOIs-on-CrossREF
 That script "reads" the bibliography of your publication and add DOI (for Digital Object Identifier) to each entry
 
-—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
-## searchDOIs.jsx | Auteur : Emmanuel Côtez (emmanuel.cotez@mnhn.fr / emmanuel.cotez@teznet.fr) | https://github.com/ecotez-mnhn ##
-—————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————————
+searchDOIs.jsx | Auteur : Emmanuel Côtez (emmanuel.cotez@mnhn.fr / emmanuel.cotez@teznet.fr) | https://github.com/ecotez-mnhn
 
 Version : 1.04
 
 Works with Adobe InDesign CC
-
-———————————————————————————————————————————————————————————————————————————————————————————————
 
 [FR]
 Script d'ajout automatique des DOI aux entrées de la bibliographie via l'API fournie par CrossREF.
@@ -25,7 +21,6 @@ Dépendances :
 - extendables/extendables.jsx
 - getURLs.jsx
 - functionsEc.js
-———————————————————————————————————————————————————————————————————————————————————————————————
 
 [EN]
 Script for automatically adding DOIs to bibliography entries via the API provided by CrossREF.
