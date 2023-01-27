@@ -1,5 +1,7 @@
 # InDesign-Script-searchDOIs-on-CrossREF
-That script "reads" the bibliography of your publication and add DOI (for Digital Object Identifier) to each entry
+That script "reads" the bibliography of your publication and add DOI (for Digital Object Identifier) to each entry. The script also add hyperlink on the DOI. If a DOI is already present, it is also linked.
+
+This script has been developped for the scientific publications of the Muséum national d'Histoire naturelle (journals, Mémoires of the Muséum and European Journal of Taxonomy) but it also works with "other" bibliography pattern (you can select the correct paragraph style that corresponds to your references). GREP expressions used to extract data from bibliography are also easy to configure. All explanations and examples are given in the script.
 
 searchDOIs.jsx | Auteur : Emmanuel Côtez (emmanuel.cotez@mnhn.fr / emmanuel.cotez@teznet.fr) | https://github.com/ecotez-mnhn
 
