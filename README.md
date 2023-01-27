@@ -22,6 +22,8 @@ Dépendances :
 - getURLs.jsx
 - functionsEc.js
 
+______________________________________________________
+
 [EN]
 Script for automatically adding DOIs to bibliography entries via the API provided by CrossREF.
 
